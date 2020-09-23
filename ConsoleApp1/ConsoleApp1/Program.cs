@@ -1,4 +1,10 @@
-﻿using DocumentFormat.OpenXml.Wordprocessing;
+﻿/* 
+   Егоров Матвей Олегович
+   БСБО-05-19
+   Задания №1,2,3,4 
+*/
+
+using DocumentFormat.OpenXml.Wordprocessing;
 using System;
 using System.IO;
 using System.Text;
